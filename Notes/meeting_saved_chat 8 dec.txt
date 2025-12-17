@@ -1,0 +1,34 @@
+20:00:49 From Trainings to Everyone:
+	Hi All,	Welcome Back!	We will start in next 5 mins. Thanks!
+20:10:24 From Aditya Parkar to Hosts and panelists:
+	Test automation tool
+20:11:06 From Aditya Parkar to Hosts and panelists:
+	getByRole
+20:12:06 From Aditya Parkar to Hosts and panelists:
+	fill
+20:12:17 From Aditya Parkar to Hosts and panelists:
+	check
+20:13:19 From Aditya Parkar to Hosts and panelists:
+	havetext
+20:21:57 From Aditya Parkar to Hosts and panelists:
+	12
+20:26:34 From Aditya Parkar to Hosts and panelists:
+	await keyword
+20:27:23 From Aditya Parkar to Hosts and panelists:
+	32
+20:27:57 From Aditya Parkar to Hosts and panelists:
+	373
+22:09:53 From Trainings to Everyone:
+	https://github.com/DD-TestEningeer/Playwright-Web-Automation/blob/main/README.md
+22:11:38 From Trainings to Everyone:
+	https://github.com/DD-TestEningeer/Playwright-Trainings.git
+22:14:11 From Trainings to Everyone:
+	https://github.com/DD-TestEningeer/demo-playwright-project.git
+22:32:14 From Aditya Parkar to Hosts and panelists:
+	Sir we have Gen AI module for self learning, so is Gen AI used on a major level in current industry?
+22:32:47 From Aditya Parkar to Hosts and panelists:
+	Ok Sir
+22:33:07 From Aditya Parkar to Hosts and panelists:
+	Thank you Sir for all the topics, job search assistance and all your valuable inputs.
+22:33:26 From Trainings to Everyone:
+	https://www.linkedin.com/in/dnyaneshwar-divekar-190663236/
